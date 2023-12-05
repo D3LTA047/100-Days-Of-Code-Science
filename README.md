@@ -1,1 +1,1 @@
-# 100-Days-Of-Code-Machine-Learning
+# 100-Days-Of-Code-Data-Science
